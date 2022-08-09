@@ -1,0 +1,10 @@
+.button {
+  padding: 0.25rem 0.5rem;
+}
+
+.button button {
+  color: white;
+  background-color: indigo;
+  font-size: large;
+  padding: 5px 15px;
+}

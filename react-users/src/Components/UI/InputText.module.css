@@ -1,0 +1,15 @@
+.input-text div{
+    padding: 5px 10px;
+}
+
+
+.input-text label{
+    font-weight: bold;
+    width: 100%;
+}
+
+.input-text input{
+    width: 100%;
+    font-size: large;
+}
+
